@@ -1,2 +1,2 @@
-# 👤 vLeeH.github.io
+# vLeeH.github.io
 My personal website.
